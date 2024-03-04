@@ -1,2 +1,2 @@
 load("reg_20240304.RData")
-load
+####计算growthrate
